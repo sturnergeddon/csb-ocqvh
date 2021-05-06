@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sturnergeddon.github.io/csb-ocqvh/static/css/main.6fb072aa.chunk.css",
+    "main.js": "https://sturnergeddon.github.io/csb-ocqvh/static/js/main.e858d441.chunk.js",
+    "main.js.map": "https://sturnergeddon.github.io/csb-ocqvh/static/js/main.e858d441.chunk.js.map",
+    "runtime-main.js": "https://sturnergeddon.github.io/csb-ocqvh/static/js/runtime-main.47c14b4c.js",
+    "runtime-main.js.map": "https://sturnergeddon.github.io/csb-ocqvh/static/js/runtime-main.47c14b4c.js.map",
+    "static/js/2.e5cb07e8.chunk.js": "https://sturnergeddon.github.io/csb-ocqvh/static/js/2.e5cb07e8.chunk.js",
+    "static/js/2.e5cb07e8.chunk.js.map": "https://sturnergeddon.github.io/csb-ocqvh/static/js/2.e5cb07e8.chunk.js.map",
+    "index.html": "https://sturnergeddon.github.io/csb-ocqvh/index.html",
+    "static/css/main.6fb072aa.chunk.css.map": "https://sturnergeddon.github.io/csb-ocqvh/static/css/main.6fb072aa.chunk.css.map",
+    "static/js/2.e5cb07e8.chunk.js.LICENSE.txt": "https://sturnergeddon.github.io/csb-ocqvh/static/js/2.e5cb07e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47c14b4c.js",
+    "static/js/2.e5cb07e8.chunk.js",
+    "static/css/main.6fb072aa.chunk.css",
+    "static/js/main.e858d441.chunk.js"
+  ]
+}
